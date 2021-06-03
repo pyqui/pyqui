@@ -8,4 +8,4 @@
 - 🤔 I’m looking for help to find (or create) the perfect open source CMS built on JS/Python, the one to beat Wordpress, please!
 - 💬 Ask me about pyqui
 - 📫 How to reach me: @rodrigopyqui
-- ⚡ Fun fact: I started to be interested in programming when I tried to change Windows system's files to change its styles.
+- ⚡ Fun fact: I started to be interested in programming when I tried to edit Windows system's files to change its UI.
