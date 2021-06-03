@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on frontend projects (libraries, frameworks, builders, anything to create UI)
 - 🤔 I’m looking for help to find (or create) the perfect open source CMS built on JS/Python, the one to beat Wordpress, please!
 - 💬 Ask me about pyqui
-- 📫 How to reach me: rodrigo@pyqui.com
+- 📫 How to reach me: @rodrigopyqui
 - ⚡ Fun fact: I started to be interested in programming when I tried to change Windows system's files to change its styles.
