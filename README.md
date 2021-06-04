@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**This is the just beginning** of my life as a developer. It's ✨ _awesome_ ✨ cause I always liked to programming. Since always, I was curious on how this things works, but I didn't understand it at all. And, thanks to HarvardX CS50 courses, I can say that it finally makes some sense to me. I'm just a beginner, but I'm very excited to create new things.
+**This is the just beginning** of my life as a developer. It's ✨ _awesome_ ✨ cause I always liked to programming. Since always, I was curious on how these things works, but I didn't understand it at all. And, thanks to HarvardX CS50 courses, I can say that it finally makes some sense to me. I'm just a beginner, but I'm very excited to create new things.
 
 - 🔭 I’m currently working on a lot of things!
 - 🌱 I’m currently learning JavaScript, Node.js, React.js, Next.js, TypeScript, Python
