@@ -1,11 +1,3 @@
 ### Hi there 👋
 
-**This is the just beginning** of my life as a developer. It's ✨ _awesome_ ✨ cause I always liked to programming. Since always, I was curious on how these things works, but I didn't understand it at all. And, thanks to HarvardX CS50 courses, I can say that it finally makes some sense to me. I'm just a beginner, but I'm very excited to create new things.
-
-- 🔭 I’m currently working on a lot of things!
-- 🌱 I’m currently learning JavaScript, Node.js, React.js, Next.js, TypeScript, Python
-- 👯 I’m looking to collaborate on frontend projects (libraries, frameworks, builders, anything to create UI)
-- 🤔 I’m looking for help to find (or create) the perfect open source CMS built on JS/Python. The one to beat Wordpress, please!
-- 💬 Ask me about pyqui
-- 📫 How to reach me: @rodrigopyqui
-- ⚡ Fun fact: I started to be interested in programming when I tried to edit Windows system's files to change its UI.
+Mid-2005 I started making videos for fun, some time later I was called to work as motion graphic designer in some advertising companies. I also worked in the video post-production on some political campaigns mid-2008, then I started my own design agency in 2011, when I was able to deepen my knowledge in videos and animations, and expand my work to more areas such as: graphic design, branding, inbound marketing, business strategies, corporate communication, social media, UX-UI, web development, programming, business administration, business development, sales strategies, etc. Furthermore, I currently work with some selected companies in the internal management of marketing, design, advertising, UX-UI, programming and business consulting as well as maintaining some relationships and partnerships with companies in development.
